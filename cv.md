@@ -19,3 +19,13 @@ Planning economist in Brest, Belarus.
 I’ve graduated:
 1. from Moscow Institute of Physics and Technology in 1992.
 2. 2006 Brest State Technical University / accounting, analysis, audit
+
+## In addition
+
+**Healthy lifestyle is important for me: I enjoy running, long walks, Nordic walking.**
+
+*I do not like rushing my job, overtime work, so I give preference to rational planning and optimization*
+
+*of work processes. I am happy to learn new software products and apply them in practice.* 
+
+I am married, I have two grown children and a small dog.
