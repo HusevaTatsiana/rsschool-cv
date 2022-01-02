@@ -1,4 +1,8 @@
 .line_height {
     line-height: 10px;
-    font-size: 20px;
+    font-size: 50px;
+}
+.photo {
+    width: 120px; 
+    height: 120px;
 }
