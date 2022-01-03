@@ -1,17 +1,26 @@
+.clear {
+    float: none;
+}
+
 .line_height {
     line-height: 10px;
     font-size: 50px;
 }
+
 a { 
     color: #000;
     text-decoration: none;
 }
+
 a:hover {
     text-decoration: underline;
 }
+
 .photo {
-    width: 120px; 
-    height: 120px;
+    width: 150px; 
+    height: 150px;
+    float: left;
+    margin-right: 50px;
 }
 
 .centering {
