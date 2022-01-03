@@ -1,0 +1,39 @@
+.clear {
+    float: none;
+}
+
+.line_height {
+    line-height: 10px;
+    font-size: 50px;
+}
+
+a { 
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.photo {
+    width: 150px; 
+    height: 150px;
+    float: left;
+    margin-right: 50px;
+}
+
+.centering {
+    width: 1200px;
+    border: 10px solid rgb(115, 200, 240);
+    margin: 0 auto;
+    padding: 15px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
