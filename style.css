@@ -6,3 +6,9 @@
     width: 120px; 
     height: 120px;
 }
+.centering {width: 600px;
+    border: 10px solid rgb(145, 140, 140);
+    margin: auto;
+}
+H2 { text-align: center }
+H1 { text-align: center }
